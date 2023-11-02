@@ -1,6 +1,6 @@
-<img align="left" src="https://github.com/nPreissler/nPreissler/assets/148357514/6c9afc50-3af8-48b4-b5f2-b793e391c677" width="360px" height="420px">
 
-## Olá, mundo! Estou fazendo um curso de programação web full-stack no Instituto da Oportunidade Social.
+
+## Fazendo curso de programação web full-stack no Instituto da Oportunidade Social.
  
 
 ### Tecnologias que estou aprendendo:
@@ -9,6 +9,7 @@
 
 ## Encontre-me:
 ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/08001cad-80e6-4603-b1df-23c75c2f4053)  ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/210889f6-785a-4788-bd99-6506e0d2dc71) 
+## @httpreissler
 
 <br> 
 
@@ -30,19 +31,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área desejada (se não tiver ignore)</strong>. <br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Atualmente tenho 15 anos, moro em Porto Alegre-RS ZN, meu primeiro contato com programação foi em 2020, com javascript, porém não foi muito positivo. Em 2023, tive a oportunidade de cursar programação web no IOS, meu segundo contato foi extremamente positivo. Meu objetivo é aprender e aperfeiçoar cada vez mais minhas habilidades...  <strong> Ainda não sei em que área seguir </strong>. <br>
+  2023: Cursando o primeiro ano do ensino médio e programação web no Instituto da Oportunidade Social
 </p>
 
 <p align="left">
  
-  🦄 Objetivo: **Exemplo: aprendizagem contínua.**
+  Objetivo: **Aprender cada dia um pouco.**
 </p>
 
 <p align="left">
 </p>
 
-  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva e Ferramentas Google.**
+  Ferramentas:  **Word, Excel, PowerPoint, Canva e Ferramentas Google.**
 
 
 <p align="left">
