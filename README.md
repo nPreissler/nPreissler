@@ -1,15 +1,14 @@
 
 
-## Fazendo curso de programação web full-stack no Instituto da Oportunidade Social.
+## Studying  full stack web programming on ios.
  
 
-### Tecnologias que estou aprendendo:
-![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/1be7d6a3-660d-4b24-aa1a-690e790db457) ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/a3d3f463-6dcc-481c-b402-51f40caa1cf6) 
+### Technologies:
+![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/1be7d6a3-660d-4b24-aa1a-690e790db457) ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/a3d3f463-6dcc-481c-b402-51f40caa1cf6) ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/f7d3d8a8-231e-4e1c-a771-b5b3c516a743)
 
 
-## Encontre-me:
-![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/08001cad-80e6-4603-b1df-23c75c2f4053)  ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/210889f6-785a-4788-bd99-6506e0d2dc71) 
-## @httpreissler
+### Contact me:
+@httpreissler (insta)
 
 <br> 
 
@@ -37,7 +36,7 @@
 
 <p align="left">
  
-  Objetivo: **Aprender cada dia um pouco.**
+  Objetivo: **Me aperfeiçoar cada dia um pouco.**
 </p>
 
 <p align="left">
