@@ -30,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Atualmente tenho 15 anos, moro em Porto Alegre (ZN)- RS, meu primeiro contato com programação foi em 2020, com javascript, porém não foi muito positivo. Em 2023, tive a oportunidade de cursar programação web no IOS, meu segundo contato foi extremamente positivo. Meu objetivo é aprender e aperfeiçoar cada vez mais minhas habilidades...  <strong> Ainda não sei em que área seguir </strong>. <br>
+  Atualmente tenho 15 anos, moro em Porto Alegre (ZN)- RS, meu primeiro contato com programação foi em 2020, com javascript, porém não foi muito positivo. Em 2023, tive a oportunidade de cursar programação web no IOS, e meu segundo contato foi extremamente positivo. Meu objetivo é aprender e aperfeiçoar cada vez mais minhas habilidades...  <strong> Ainda não sei em que área seguir </strong>. <br>
   2023: Cursando o primeiro ano do ensino médio e programação web no Instituto da Oportunidade Social
 </p>
 
