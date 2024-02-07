@@ -6,7 +6,7 @@
  
 
 ### Technologies I'm learning:
-![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/1be7d6a3-660d-4b24-aa1a-690e790db457) <br>![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/a3d3f463-6dcc-481c-b402-51f40caa1cf6) <br> ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/f7d3d8a8-231e-4e1c-a771-b5b3c516a743) <br> ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/1be7d6a3-660d-4b24-aa1a-690e790db457) <br>![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/a3d3f463-6dcc-481c-b402-51f40caa1cf6) <br> ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/f7d3d8a8-231e-4e1c-a771-b5b3c516a743) <br> ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ___
 
 
