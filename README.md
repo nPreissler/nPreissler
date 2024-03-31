@@ -27,7 +27,7 @@ ___
 
 ____
 ### About me:
- <p> Meu nome é Nestor Preissler, tenho 15 anos. Moro em Porto Alegre RS (ZN). Minha jornada no mundo da programação começou em 2020, estudando JavaScript por meio de um projeto do Google (Grasshopper). Alguns anos depois, em 2023 tive a oportunidade de dar seguimento nos estudos na área de programação no <a href="https://www.instagram.com/iosoficial/">@IOS (Instituto da Oportunidade Social)</a> onde tive um contato extremamente positivo com programação, e me motivou a estudar Python por conta própria também, meu objetivo é usar da falta de conhecimento como minha grande motivação para aprender. <strong>Até o momento tenho grande interesse em seguir estudando programação Back-end.</strong>
+ <p> Meu nome é Nestor Preissler, tenho 16 anos. Moro em Porto Alegre RS (ZN). Minha jornada no mundo da programação começou em 2020, estudando JavaScript por meio de um projeto do Google (Grasshopper). Alguns anos depois, em 2023 tive a oportunidade de dar seguimento nos estudos na área de programação no <a href="https://www.instagram.com/iosoficial/">@IOS (Instituto da Oportunidade Social)</a> onde tive um contato extremamente positivo com programação, e me motivou a estudar Python por conta própria também, meu objetivo é usar da falta de conhecimento como minha grande motivação para aprender. <strong>Até o momento tenho grande interesse em seguir estudando programação Back-end.</strong>
 
   ___
  <p><br></p>
