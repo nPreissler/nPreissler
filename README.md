@@ -1,58 +1,40 @@
 
-
-## Studying  full stack web programming on ios.
-
-##### "Hello there " 👋
- 
-
-### Technologies I'm learning:
-![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/1be7d6a3-660d-4b24-aa1a-690e790db457) <br>![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/a3d3f463-6dcc-481c-b402-51f40caa1cf6) <br> ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/f7d3d8a8-231e-4e1c-a771-b5b3c516a743) <br> ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-___
-
-
-### Find me:
-<a href="https://www.instagram.com/httpreissler/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-
+<h2>"Hello there"👋 
 <br> 
+My name is Nestor</h2>
 
-<div align="left"> 
+<h4>About-me:</h4>
+<h6>PT-BR<h6>
+<h5>  Sou Nestor Preissler, moro em Porto Alegre (RS) e sou apaixonado por computadores desde bem novo. Gosto de fotografia, programação, cozinhar e vôlei. Gosto de aprender com tudo que acontece em minha vida e meu objetivo é usar da falta de conhecimento como minha grande motivação para aprender.</h5>
+<h6>EN</h6>
+<h5>I'm Nestor Preissler, I live in Porto Alegre (RS) and I've been passionate about computers since I was very young. I like photography, programming, cooking and volleyball. I like to learn from everything that happens in my life and my goal is to use the lack of knowledge as my great motivation to learn.</h5>
 
-  
- <a align="left" href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nPreissler&layout=compact&theme=dark&hide_border=true" /></a> 
+<h6>Discover my <a href="https://npreissler.github.io/Portfolio/">portfolio</a></h6>
 
-</img>
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nPreissler&theme=transparent">
+<br>
+ <br>
+<br>
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nPreissler&theme=transparent">
+<img src="https://streak-stats.demolab.com?user=nPreissler&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+
 </div>
-<br> <br>
-
-
-____
-### About me:
- <p> Meu nome é Nestor Preissler, tenho 16 anos. Moro em Porto Alegre RS (ZN). Minha jornada no mundo da programação começou em 2020, estudando JavaScript por meio de um projeto do Google (Grasshopper). Alguns anos depois, em 2023 tive a oportunidade de dar seguimento nos estudos na área de programação no <a href="https://www.instagram.com/iosoficial/">@IOS (Instituto da Oportunidade Social)</a> onde tive um contato extremamente positivo com programação, e me motivou a estudar Python por conta própria também, meu objetivo é usar da falta de conhecimento como minha grande motivação para aprender. <strong>Até o momento tenho grande interesse em seguir estudando programação Back-end.</strong>
-
-  ___
- <p><br></p>
- <p>
-  2024: Cursando o segundo ano do ensino médio e programação web no Instituto da Oportunidade Social
-</p>
-<p><br></p>
-<p align="left">
-</p>
-
-### Tools :  <br> 
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-  <br>
-  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-  <p><br></p>
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nPreissler/nPreissler/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nPreissler/nPreissler/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nPreissler/nPreissler/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
-
-  ___
  
+ <h3>Languages:</h3>
 
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white">
+</p>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nPreissler&theme=transparent&exclude={exclude}">
+
+<h3>Formations</h3>
+
+<h5><a href="https://ios.org.br/"> Instituto da Oportunidade Social</a>, 720hrs (10 months) of Full-stack web-development </h5>
+<h6>Start:</h6>
+<h6>End:</h6>
