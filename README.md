@@ -20,6 +20,8 @@ My name is Nestor</h2>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nPreissler&theme=transparent">
 
 </div>
+
+<div>
  
  <h3>Languages:</h3>
 
@@ -32,6 +34,8 @@ My name is Nestor</h2>
 </p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nPreissler&theme=transparent&exclude={exclude}">
+
+</div>
 
 <h3>Formations</h3>
 
