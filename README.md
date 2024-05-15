@@ -8,7 +8,7 @@ My name is Nestor</h2>
 <h6>PT-BR<h6>
 <h5>  Sou Nestor Preissler, moro em Porto Alegre (RS) e sou apaixonado por computadores desde bem novo. Gosto de fotografia, programação, cozinhar e vôlei. Gosto de aprender com tudo que acontece em minha vida e meu objetivo é usar da falta de conhecimento como minha grande motivação para aprender.</h5>
 <h6>EN</h6>
-<h5>I'm Nestor Preissler, I live in Porto Alegre (RS) and I've been passionate about computers since I was very young. I like photography, programming, cooking and volleyball. I like to learn from everything that happens in my life and my goal is to use the lack of knowledge as my great motivation to learn.</h5>
+<h5>I'm Nestor Preissler, I live in Porto Alegre (RS-Brazil) and I've been passionate about computers since I was very young. I like photography, programming, cooking and volleyball. I like to learn from everything that happens in my life and my goal is to use the lack of knowledge as my great motivation to learn.</h5>
 
 <h6>Discover my <a target="_blank" href="https://npreissler.github.io/Portfolio/">portfolio</a></h6>
 
