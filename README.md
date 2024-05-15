@@ -1,3 +1,4 @@
+___
 
 <h2>"Hello there"👋 
 <br> 
@@ -9,7 +10,7 @@ My name is Nestor</h2>
 <h6>EN</h6>
 <h5>I'm Nestor Preissler, I live in Porto Alegre (RS) and I've been passionate about computers since I was very young. I like photography, programming, cooking and volleyball. I like to learn from everything that happens in my life and my goal is to use the lack of knowledge as my great motivation to learn.</h5>
 
-<h6>Discover my <a href="https://npreissler.github.io/Portfolio/">portfolio</a></h6>
+<h6>Discover my <a target="_blank" href="https://npreissler.github.io/Portfolio/">portfolio</a></h6>
 
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nPreissler&theme=transparent">
@@ -50,6 +51,10 @@ My name is Nestor</h2>
 
 <h3>Formations</h3>
 
-<h5><a href="https://ios.org.br/"> Instituto da Oportunidade Social</a>, 720hrs (10 months) of Full-stack web-development </h5>
-<h6>Start:</h6>
-<h6>End:</h6>
+<h5><a target="_blank" href="https://ios.org.br/"> Instituto da Oportunidade Social</a>, 720hrs (10 months) of Full-stack web-development </h5>
+<h6>Start: Setember-2023</h6>
+<h6>End: June-2024 </h6>
+
+___
+
+
