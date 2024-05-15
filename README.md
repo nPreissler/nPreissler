@@ -16,7 +16,7 @@ My name is Nestor</h2>
 <br>
  <br>
 <br>
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nPreissler&theme=transparent">
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nPreissler&theme=transparent">
 <img src="https://streak-stats.demolab.com?user=nPreissler&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 </div>
