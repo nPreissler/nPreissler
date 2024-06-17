@@ -38,12 +38,12 @@ My name is Nestor</h2>
  <h3>Languages:</h3>
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-000.svg?style=for-the-badge&logo=HTML5&logoColor=orange">
+<img src="https://img.shields.io/badge/CSS3-000.svg?style=for-the-badge&logo=CSS3&logoColor=blue">
+<img src="https://img.shields.io/badge/JavaScript-000.svg?style=for-the-badge&logo=JavaScript&logoColor=yellow">
+<img src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-000.svg?style=for-the-badge&logo=PHP&logoColor=blue">
+<img src="https://img.shields.io/badge/Git-000.svg?style=for-the-badge&logo=Git&logoColor=red">
 </p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nPreissler&theme=transparent&exclude={exclude}">
