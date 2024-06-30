@@ -41,8 +41,9 @@ My name is Nestor</h2>
 <img src="https://img.shields.io/badge/HTML5-000.svg?style=for-the-badge&logo=HTML5&logoColor=orange">
 <img src="https://img.shields.io/badge/CSS3-000.svg?style=for-the-badge&logo=CSS3&logoColor=blue">
 <img src="https://img.shields.io/badge/JavaScript-000.svg?style=for-the-badge&logo=JavaScript&logoColor=yellow">
-<img src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Python-000.svg?style=for-the-badge&logo=Python&logoColor=lightblue">
 <img src="https://img.shields.io/badge/PHP-000.svg?style=for-the-badge&logo=PHP&logoColor=blue">
+<img src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Git-000.svg?style=for-the-badge&logo=Git&logoColor=red">
 </p>
 
