@@ -60,4 +60,6 @@ My name is Nestor
 
 ___
 
+![](https://komarev.com/ghpvc/?username=nPreissler&color=blue)
+
 
