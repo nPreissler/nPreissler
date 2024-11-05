@@ -60,6 +60,9 @@ My name is Nestor
 
 ___
 
+<h5><a target="_blank" href="https://www.geracaocaldeira.org/"> Geração Caldeira</a>, 400hrs (4 months) of Data-Analysis and Machine Learning </h5>
+<h6>Start: Setember-2024</h6>
+<h6>End: December-2024 </h6>
 
-
+___
 
