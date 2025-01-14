@@ -5,6 +5,21 @@ ___
 My name is Nestor
 </h2>
 
+ <h3>Languages:</h3>
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-000.svg?style=for-the-badge&logo=HTML5&logoColor=orange">
+<img src="https://img.shields.io/badge/CSS3-000.svg?style=for-the-badge&logo=CSS3&logoColor=blue">
+<img src="https://img.shields.io/badge/JavaScript-000.svg?style=for-the-badge&logo=JavaScript&logoColor=yellow">
+<img src="https://img.shields.io/badge/Python-000.svg?style=for-the-badge&logo=Python&logoColor=lightblue">
+<img src="https://img.shields.io/badge/PHP-000.svg?style=for-the-badge&logo=PHP&logoColor=blue">
+<img src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Git-000.svg?style=for-the-badge&logo=Git&logoColor=red">
+</p>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nPreissler&theme=transparent&exclude={exclude}">
+
+
 <h4>About-me:</h4>
 <h6>PT-BR<h6>
 <h5>Sou Nestor Preissler, moro em Porto Alegre (RS) e sou apaixonado por computadores desde bem novo. Gosto de fotografia, programação, cozinhar e vôlei. Tento de aprender com tudo que acontece em minha vida e gosto de usar o que ainda não aprendi como minha grande motivação para aprender mais.</h5>
