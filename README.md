@@ -49,24 +49,6 @@ My name is Nestor
 <br>
 <br>
 
-<div>
- 
- <h3>Languages:</h3>
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-000.svg?style=for-the-badge&logo=HTML5&logoColor=orange">
-<img src="https://img.shields.io/badge/CSS3-000.svg?style=for-the-badge&logo=CSS3&logoColor=blue">
-<img src="https://img.shields.io/badge/JavaScript-000.svg?style=for-the-badge&logo=JavaScript&logoColor=yellow">
-<img src="https://img.shields.io/badge/Python-000.svg?style=for-the-badge&logo=Python&logoColor=lightblue">
-<img src="https://img.shields.io/badge/PHP-000.svg?style=for-the-badge&logo=PHP&logoColor=blue">
-<img src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Git-000.svg?style=for-the-badge&logo=Git&logoColor=red">
-</p>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nPreissler&theme=transparent&exclude={exclude}">
-
-</div>
-
 <h3>Formations</h3>
 
 <h5><a target="_blank" href="https://ios.org.br/"> Instituto da Oportunidade Social</a>, 720hrs (10 months) of Full-stack web-development </h5>
