@@ -17,7 +17,7 @@ My name is Nestor
 <img src="https://img.shields.io/badge/Git-000.svg?style=for-the-badge&logo=Git&logoColor=red">
 </p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nPreissler&theme=transparent&exclude={exclude}">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nPreissler&theme=transparent&exclude=CSS">
 
 
 <h4>About-me:</h4>
