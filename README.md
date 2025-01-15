@@ -15,6 +15,12 @@ My name is Nestor
 <img src="https://img.shields.io/badge/PHP-000.svg?style=for-the-badge&logo=PHP&logoColor=blue">
 <img src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Git-000.svg?style=for-the-badge&logo=Git&logoColor=red">
+<img src="https://img.shields.io/badge/Jupyter-000.svg?style=for-the-badge&logo=Jupyter&logoColor=orange">
+<img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white">
+<img src="https://img.shields.io/badge/Jinja-000.svg?style=for-the-badge&logo=Jinja&logoColor=red">
+<img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=yellow">
+<img src="https://img.shields.io/badge/pandas-000.svg?style=for-the-badge&logo=pandas&logoColor=darkblue">
+<img src="https://img.shields.io/badge/scikitlearn-000.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nPreissler&theme=transparent&exclude=CSS">
