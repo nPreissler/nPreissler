@@ -23,7 +23,7 @@ My name is Nestor
 <img src="https://img.shields.io/badge/scikitlearn-000.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nPreissler&theme=transparent&exclude=CSS">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nPreissler&theme=transparent&exclude=CSS, HTML">
 
 
 <h4>About-me:</h4>
