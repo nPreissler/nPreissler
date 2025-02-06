@@ -32,8 +32,6 @@ My name is Nestor
 <h6>EN</h6>
 <h5>I'm Nestor Preissler, I live in Porto Alegre (RS) and I've been passionate about computers since I was very young. I like programming, photography cooking and volleyball. I try to learn from everything that happens in my life and I like to use what I haven't yet learned as my great motivation to learn more</h5>
 
-<h6>Discover my <a target="_blank" href="https://npreissler.github.io/Portfolio/">portfolio</a></h6>
-
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nPreissler&theme=transparent">
 <br>
