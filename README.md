@@ -5,9 +5,9 @@ ___
 My name is Nestor
 </h2>
 
- <h3>Languages:</h3>
 
-<p>
+
+<!-- <p>
 <img src="https://img.shields.io/badge/HTML5-000.svg?style=for-the-badge&logo=HTML5&logoColor=orange">
 <img src="https://img.shields.io/badge/CSS3-000.svg?style=for-the-badge&logo=CSS3&logoColor=blue">
 <img src="https://img.shields.io/badge/JavaScript-000.svg?style=for-the-badge&logo=JavaScript&logoColor=yellow">
@@ -21,7 +21,7 @@ My name is Nestor
 <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=yellow">
 <img src="https://img.shields.io/badge/pandas-000.svg?style=for-the-badge&logo=pandas&logoColor=darkblue">
 <img src="https://img.shields.io/badge/scikitlearn-000.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-</p>
+</p> -->
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nPreissler&theme=transparent&exclude=CSS, HTML">
 
