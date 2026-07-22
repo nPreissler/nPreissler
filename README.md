@@ -23,17 +23,17 @@ My name is Nestor
 <img src="https://img.shields.io/badge/scikitlearn-000.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p> -->
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nPreissler&theme=transparent&exclude=CSS, HTML">
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nPreissler&theme=transparent&exclude=CSS, HTML">
 
 
 
 <div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nPreissler&theme=transparent">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nPreissler&theme=transparent"> -->
 <br>
  <br>
 <br>
 <img src="https://streak-stats.demolab.com?user=nPreissler&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nPreissler&theme=transparent">
+<!-- <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nPreissler&theme=transparent"> -->
 
 </div>
 
