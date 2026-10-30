@@ -1,6 +1,6 @@
 ___
 
-<h2>"Hello there"👋 
+<h2>"Hello there" 👋
 <br> 
 My name is Nestor
 </h2>
